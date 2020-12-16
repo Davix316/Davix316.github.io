@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Cartelera>
+    <pelicula>
+        <codigo>WW1984</codigo>
+        <titulo>Mujer Maravilla 1984</titulo>
+        <año>2020</año>
+        <duracion horas="2" minutos="30" segundos="0"></duracion>
+        <nacionalidad>Estadounidense</nacionalidad>  
+        <genero>Acción</genero>  
+        <clasificacion>Todo Público</clasificacion>  
+        <director>
+            <nombre>Patty</nombre>
+            <apellido>Jenkins</apellido>
+            <fecha_nacimiento año="1971" mes="julio" dia="23"></fecha_nacimiento>
+        </director>  
+        <reparto>
+            <actores_principales>
+                <nombres_originales>Gal Gadot</nombres_originales>
+                <nombres_pelicula>Diana Prince/Mujer Maravilla</nombres_pelicula>
+            </actores_principales>
+            <actores_secundarios>
+                <nombres_originales>Chris Pine </nombres_originales>
+                <nombres_pelicula>Steve Trevor</nombres_pelicula>
+                <nombres_originales>Kristen Wiig </nombres_originales>
+                <nombres_pelicula>Cheetah</nombres_pelicula>
+            </actores_secundarios>
+            <dobles>
+                <nombres_originales>Christiaan Bettridge</nombres_originales>
+                <sustituye>Mujer Maravilla</sustituye>
+            </dobles>
+        </reparto>  
+        <sinopsis>
+        En 1984, durante la Guerra Fría, Diana Prince entra en conflicto con dos formidables enemigos: el hombre de negocios de medios de comunicación Maxwell Lord y su amiga convertida en enemiga Bárbara Ann Minerva, mientras se reencuentra con su interés amoroso Steve Trevor.
+        </sinopsis>  
+    </pelicula> 
+</Cartelera>
