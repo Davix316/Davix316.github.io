@@ -1,0 +1,41 @@
+body {
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    margin: 0;
+}
+
+button {
+    align-content: center;
+    border-radius: 2px;
+    margin-left: 47%;
+    background-color: blue;
+}
+
+.tittle{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.pokemon-list{
+    display: grid;
+    grid-template-columns: 1fr 100px 1fr;
+    max-width: 800px;
+    margin: auto;
+}
+
+.pokemon{
+    border: 1px solid black;
+    padding: 10px;
+    background: gray;
+    text-align: center;
+}
+
+.vs{
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
+
+.img{
+    width: 50%;
+}
